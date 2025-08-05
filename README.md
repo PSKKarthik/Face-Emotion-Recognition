@@ -1,0 +1,2 @@
+I developed a real-time Face Emotion Detection system using Python, OpenCV, and Deep Learning (DeepFace/Keras). It captures webcam input, detects faces, and identifies 7 emotions — Happy, Sad, Angry, Surprise, Fear, Disgust, and Neutral — in real time. The system displays the detected emotion on screen and helps in understanding user mood dynamically. A machine learning model trained on synthetic data and integration with DeepFace makes it both flexible and accurate
+"# Face-Emotion-Recognition" 
